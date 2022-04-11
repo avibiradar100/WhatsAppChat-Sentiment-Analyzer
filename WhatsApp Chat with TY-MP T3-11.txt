@@ -954,7 +954,7 @@ https://t.me/jobseekerHUB
 16/09/21, 17:32 - Avinash: <Media omitted>
 16/09/21, 17:32 - Teknath Jha: /?
 16/09/21, 17:32 - Teknath Jha: /?
-16/09/21, 17:33 - Avinash: <Media omitted>
+16/09/21, 17:32 - Avinash: <Media omitted>
 16/09/21, 17:32 - Teknath Jha: /?
 16/09/21, 17:33 - Avinash: <Media omitted>
 16/09/21, 17:33 - Teknath Jha: /?
@@ -1470,7 +1470,7 @@ College staff will be able to direct contact to student to get work done.    @91
 21/09/21, 07:58 - Teknath Jha: if you guys r using  vscode  then consider this tabnine
 21/09/21, 07:58 - Teknath Jha: it helps in fast  dev
 21/09/21, 07:59 - Teknath Jha: clone ?  kaha se
-21/09/21, 08:00 - Avinash: GitHub pe repo banaya na?? Khuch add krde thoda usme
+21/09/21, 07:59 - Avinash: GitHub pe repo banaya na?? Khuch add krde thoda usme
 21/09/21, 08:00 - Teknath Jha: both of us will get one month free pro level  tabnine
 21/09/21, 08:00 - Teknath Jha: meet ke baad
 21/09/21, 08:00 - Teknath Jha: kuch bhi nahi likh sakta
@@ -1738,7 +1738,7 @@ College staff will be able to direct contact to student to get work done.    @91
 24/09/21, 08:08 - Teknath Jha: Via signup page
 24/09/21, 08:37 - Sanap Aditya: <Media omitted>
 24/09/21, 10:22 - Avinash: Daa??
-24/09/21, 10:23 - Avinash: Links
+24/09/21, 10:22 - Avinash: Links
 24/09/21, 10:23 - Avinash: Link
 24/09/21, 10:22 - Teknath Jha: DAA nahi hai kya
 24/09/21, 10:22 - Teknath Jha: abhi
@@ -1794,7 +1794,7 @@ College staff will be able to direct contact to student to get work done.    @91
 24/09/21, 21:33 - Avinash: Tera system work nhi kiya
 24/09/21, 21:42 - Teknath Jha: abe vo tera system ka problem hai
 24/09/21, 21:43 - Teknath Jha: chrome use kar  cache suggestion keliye
-24/09/21, 21:46 - Avinash: Vo nhi re
+24/09/21, 21:45 - Avinash: Vo nhi re
 24/09/21, 21:46 - Avinash: Credentials wrong wala
 24/09/21, 21:49 - Teknath Jha: kuch nahi mere yaha to sab sahi hai
 24/09/21, 21:50 - Teknath Jha: <Media omitted>
@@ -2310,7 +2310,7 @@ Abhi koi event offline hai nahi . To app ki utni need nahi
 05/10/21, 10:26 - Sanap Aditya: Ho gayi shayad
 05/10/21, 10:27 - Sanap Aditya: Absent marked
 05/10/21, 10:30 - Avinash: Ha
-05/10/21, 10:31 - Avinash: Hua
+05/10/21, 10:30 - Avinash: Hua
 05/10/21, 10:31 - Teknath Jha: Password batana
 05/10/21, 10:31 - Sanap Aditya: Bataya kr na
 05/10/21, 10:31 - Teknath Jha: Abhi bata plz
@@ -3017,7 +3017,7 @@ billd3@gmail.com      billD3
 13/10/21, 15:33 - Teknath Jha: @917219578500  pata hai top batao
 13/10/21, 15:33 - Sanap Aditya: Tu decision tree ka bhej
 13/10/21, 15:33 - Sanap Aditya: Woh bahar tha shayad
-13/10/21, 15:34 - Avinash: Ha abhi bhi hu
+13/10/21, 15:33 - Avinash: Ha abhi bhi hu
 17/10/21, 08:22 - Teknath Jha: portfolio huywa kya
 17/10/21, 09:26 - Sanap Aditya: Mai bheja tha na zip
 17/10/21, 09:26 - Sanap Aditya: Usme add karlo na phir
@@ -3279,7 +3279,7 @@ billd3@gmail.com      billD3
 28/10/21, 20:30 - Avinash: Kiya hai*
 28/10/21, 20:31 - Avinash: Easy hai tu knyu na bol rha hai
 28/10/21, 20:32 - Teknath Jha: heroku is not suitable for more database
-28/10/21, 20:34 - Avinash: Means for firebase
+28/10/21, 20:33 - Avinash: Means for firebase
 28/10/21, 20:34 - Teknath Jha: yup
 28/10/21, 20:35 - Avinash: Maine mongo db Atlas ka kiya hai vo chalta hai perfect vo bhi real time hi hai
 28/10/21, 20:35 - Teknath Jha: 🤔✌️👍
@@ -5474,3 +5474,272 @@ https://www.youtube.com/watch?v=LecXT67dptQ
 19/03/22, 00:21 - Teknath Jha: <Media omitted>
 19/03/22, 00:22 - Teknath Jha: Currently in schools teachers perform manual work to prepare and track students learning’s outcome through report cards. This is the standard procedure done manually throughout the country. Often it is observed that students are also good in co-curricular activities and being good in academics is not the only way ahead. In current situation it is not possible for a teacher to pay attention to every student and find out the best in a child. Hence there is a need to develop solutions to track all activities of a student including the academic progress in real-time. Innovation in this domain will be appreciated to develop systems which automatically reads the students progress and generates feedback also is a good way to proceed.
 24/03/22, 14:57 - Sanap Aditya: .
+03/04/22, 18:51 - Avinash: check mail and accept the invitition
+03/04/22, 18:52 - Avinash: for mini project
+03/04/22, 18:54 - Avinash: <Media omitted>
+06/04/22, 13:56 - Avinash: hii
+06/04/22, 13:57 - Avinash: insert into site1.BookStore values (1, Nagpur', Maharashtra',442001 ,1234);
+insert into site1.BookStore values (2, Mumbai', Maharashtra',443001 ,14);
+insert into site1.BookStore values (3, Delhi', Delhi',342001 ,124);
+insert into site1.BookStore values (4, Hydrabad', Hydrabad',462001 ,4434);
+insert into site1.BookStore values (5, Latur', Maharashtra',452001 ,1334);
+insert into site1.BookStore values (6, Nashik', Maharashtra',442001 ,134);
+insert into site1.BookStore values (7, Gujrat', Gujrat',452001 ,1834);
+insert into site1.BookStore values (8, chandigad', Punjab',222001 ,124);
+06/04/22, 13:57 - Teknath Jha: insert into site1.BookStore values (1, Nagpur', Maharashtra',442001 ,1234);
+insert into site1.BookStore values (2, Mumbai', Maharashtra',443001 ,14);
+insert into site1.BookStore values (3, Delhi', Delhi',342001 ,124);
+insert into site1.BookStore values (4, Hydrabad', Hydrabad',462001 ,4434);
+insert into site1.BookStore values (5, Latur', Maharashtra',452001 ,1334);
+insert into site1.BookStore values (6, Nashik', Maharashtra',442001 ,134);
+insert into site1.BookStore values (7, Gujrat', Gujrat',452001 ,1834);
+insert into site1.BookStore values (8, chandigad', Punjab',222001 ,124);
+06/04/22, 13:57 - Teknath Jha: Your MySQL connection id is 8
+Server version: 8.0.27 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2021, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> create database site1;
+Query OK, 1 row affected (0.06 sec)
+
+mysql> use site1;
+Database changed
+mysql> create table books(ISBN int , Author varchar(10),Topic varchar(100), TotalStock int , Price int );
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> desc books;
++------------+--------------+------+-----+---------+-------+
+| Field      | Type         | Null | Key | Default | Extra |
++------------+--------------+------+-----+---------+-------+
+| ISBN       | int          | YES  |     | NULL    |       |
+| Author     | varchar(10)  | YES  |     | NULL    |       |
+| Topic      | varchar(100) | YES  |     | NULL    |       |
+| TotalStock | int          | YES  |     | NULL    |       |
+| Price      | int          | YES  |     | NULL    |       |
++------------+--------------+------+-----+---------+-------+
+5 rows in set (0.10 sec)
+
+mysql> insert into site1.books values('1001','Teknath','Database systems',20,20,200.01);
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> insert into site1.books values(1001,'Teknath','Database systems',20,200.01);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> insert into site1.books values(1002,'Avinash','Adv Database systems',30,210.01);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> insert into site1.books values(1003,'Aditya','Fundamentals of Database systems',10,110.00);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> insert into site1.books values(1004,'Rahul','Fundamentals of CNN',20,110.00);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> insert into site1.books values(1005,'Karan','Fundamentals of DAA',40,110.00);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> insert into site1.books values(1006,'Auyash','TOC',5,110.00);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> insert into site1.books values(1007,'Tavish','CD',5,140.00);
+Query OK, 1 row affected (0.00 sec)
+
+mysql> insert into site1.books values(1008,'Raman','Autocad',7,140.00);
+Query OK, 1 row affected (0.04 sec)
+
+mysql> select * from site1;
+ERROR 1146 (42S02): Table 'site1.site1' doesn't exist
+mysql> select * from books;
++------+---------+----------------------------------+------------+-------+
+| ISBN | Author  | Topic                            | TotalStock | Price |
++------+---------+----------------------------------+------------+-------+
+| 1001 | Teknath | Database systems                 |         20 |   200 |
+| 1002 | Avinash | Adv Database systems             |         30 |   210 |
+| 1003 | Aditya  | Fundamentals of Database systems |         10 |   110 |
+| 1004 | Rahul   | Fundamentals of CNN              |         20 |   110 |
+| 1005 | Karan   | Fundamentals of DAA              |         40 |   110 |
+| 1006 | Auyash  | TOC                              |          5 |   110 |
+| 1007 | Tavish  | CD                               |          5 |   140 |
+| 1008 | Raman   | Autocad                          |          7 |   140 |
++------+---------+----------------------------------+------------+-------+
+8 rows in set (0.04 sec)
+
+mysql> create table books(Storeno int ,City varchar(25),State varchar(100), ZipCode int, InventoryValue int );
+ERROR 1050 (42S01): Table 'books' already exists
+mysql> create table BookStore(Storeno int ,City varchar(25),State varchar(100), ZipCode int, InventoryValue int );
+Query OK, 0 rows affected (0.11 sec)
+
+mysql> desc BookStore;
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| Storeno        | int          | YES  |     | NULL    |       |
+| City           | varchar(25)  | YES  |     | NULL    |       |
+| State          | varchar(100) | YES  |     | NULL    |       |
+| ZipCode        | int          | YES  |     | NULL    |       |
+| InventoryValue | int          | YES  |     | NULL    |       |
++----------------+--------------+------+-----+---------+-------+
+5 rows in set (0.01 sec)
+
+mysql>
+06/04/22, 14:01 - Teknath Jha: insert into site1.BookStore values (1, 'Nagpur', 'Maharashtra',442001 ,1234);
+insert into site1.BookStore values (2, 'Mumbai', 'Maharashtra',443001 ,14);
+insert into site1.BookStore values (3, 'Delhi', 'Delhi',342001 ,124);
+insert into site1.BookStore values (4, 'Hydrabad', 'Hydrabad' ,462001 ,4434);
+insert into site1.BookStore values (5, 'Latur', 'Maharashtra',452001 ,1334);
+insert into site1.BookStore values (6, 'Nashik', 'Maharashtra',442001 ,134);
+insert into site1.BookStore values (7, 'Gujrat', 'Gujrat',452001 ,1834);
+insert into site1.BookStore values (8, 'chandigad', 'Punjab',222001 ,124);
+06/04/22, 14:07 - Teknath Jha: insert into site1.Stock values(1,'1864', 45); 
+ insert into site1.Stock values(2, '1002' ,25); 
+ insert into site1.Stock values (3,'1001',15> ; 
+ insert into site1.Stock values(4,'1003' 323 
+ insert into site1.Stock values (5,'1665', 100); 
+ insert into site1.Stock values(6,'1906' 43); 
+ select * from site1.Stock;
+06/04/22, 14:25 - Teknath Jha: https://dev.mysql.com/downloads/file/?id=509023
+06/04/22, 15:21 - Teknath Jha: https://www.ryadel.com/en/mysql-master-master-replication-setup-in-5-easy-steps/
+06/04/22, 17:40 - Teknath Jha: MySQL
+STOP SLAVE;
+CHANGE MASTER TO MASTER_HOST = '192.168.1.8', MASTER_USER = 'replicator', MASTER_PASSWORD = '1234', MASTER_LOG_FILE = 'mysql-bin.000001', MASTER_LOG_POS = 107; 
+START SLAVE;
+
+
+
+CHANGE MASTER TO MASTER_HOST = '10.30.1.72', MASTER_USER = 'replicator', MASTER_PASSWORD = '1234', MASTER_LOG_FILE = 'mysql-bin.000001', MASTER_LOG_POS = 107; 
+
+
+
+START SLAVE;
+
+CREATE USER 'replicator'@'%' IDENTIFIED BY '1234';
+06/04/22, 17:41 - Teknath Jha: HP-LAPTOP-bin.000075
+06/04/22, 23:13 - Teknath Jha: <Media omitted>
+06/04/22, 23:14 - Sanap Aditya: Konsa hai
+06/04/22, 23:14 - Sanap Aditya: Set ok
+06/04/22, 23:19 - Teknath Jha: server-id=1
+replicate-same-server-id=0
+auto-increment-increment=2
+auto-increment-offset=1
+relay-log=/var/lib/mysql/serverA-relay-bin
+relay-log-index=/var/lib/mysql/serverA-relay-bin.index
+log-error=/var/log/mysql/mysql.err
+master-info-file = /var/lib/mysql/mysql-master.info
+relay-log-info-file=/var/lib/mysql/serverA-relay-log.info
+log-bin=/var/lib/mysql/serverA-bin
+06/04/22, 23:20 - Sanap Aditya: Hua kya
+06/04/22, 23:20 - Teknath Jha: soja re
+06/04/22, 23:20 - Sanap Aditya: 😂😂😂
+07/04/22, 08:46 - Teknath Jha: CREATE USER 'tek'@'192.168.1.220' IDENTIFIED WITH BY '1234';
+
+
+GRANT replication slave  ON *.* TO 'tek'@'192.168.1.220' WITH GRANT OPTION;
+07/04/22, 08:55 - Teknath Jha: CHANGE MASTER TO MASTER_HOST='192.168.1.220' ,
+MASTER_LOG_FILE='HP-LAPTOP-bin.000005',
+MASTER_USER='tek',
+MASTER_LOG_POS=1133;
+07/04/22, 08:59 - Teknath Jha: server-id=1
+replicate-same-server-id=2
+auto-increment-increment=2
+auto-increment-offset=2
+relay-log=/var/lib/mysql/serverA-relay-bin
+relay-log-index=/var/lib/mysql/serverA-relay-bin.index
+log-error=/var/log/mysql/mysql.err
+master-info-file = /var/lib/mysql/mysql-master.info
+relay-log-info-file=/var/lib/mysql/serverA-relay-log.info
+log-bin=/var/lib/mysql/serverA-bin
+07/04/22, 09:09 - Teknath Jha: CREATE USER 'tek1'@'192.168.1.220' IDENTIFIED BY '1234';
+
+
+GRANT replication slave  ON *.* TO 'tek1'@'192.168.1.220' WITH GRANT OPTION;
+07/04/22, 09:39 - Sanap Aditya started a call
+07/04/22, 12:00 - Avinash: https://www.coachdevops.com/2020/04/install-ansible-on-ubuntu-how-to-setup.html
+07/04/22, 15:05 - Teknath Jha: https://www.clusterdb.com/mysql-cluster/my-first-cluster-running-on-windows
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:33 - Teknath Jha: This message was deleted
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:34 - Teknath Jha: <Media omitted>
+07/04/22, 16:46 - Teknath Jha: <Media omitted>
+07/04/22, 16:51 - Sanap Aditya: <Media omitted>
+07/04/22, 16:58 - Teknath Jha: ho raha hai yaha se
+07/04/22, 16:58 - Teknath Jha: uploaded
+07/04/22, 17:06 - Sanap Aditya: done
+07/04/22, 17:21 - Teknath Jha: Mini band ho raha hai 5.30 ko mat aana
+07/04/22, 23:01 - Sanap Aditya: https://developers.google.com/codelabs/pwa-in-play#:~:text=4.-,Adding%20Your%20App%20to%20Google's%20Play%20Store,log%20in%20and%20get%20started.
+08/04/22, 09:23 - Sanap Aditya: Type 1 hypervisor is more secure or 2
+08/04/22, 09:44 - Teknath Jha: 2 because os is there ig
+08/04/22, 09:44 - Sanap Aditya: Ig 😁
+08/04/22, 09:44 - Sanap Aditya: 👍👍👍
+08/04/22, 09:44 - Teknath Jha: I think
+08/04/22, 09:44 - Sanap Aditya: Mam ke lecture mai notes banaya tha kya
+08/04/22, 09:44 - Sanap Aditya: Woh dekh na ekbar
+08/04/22, 09:44 - Teknath Jha: Nahi
+08/04/22, 09:45 - Sanap Aditya: Avinash ko puch
+08/04/22, 09:45 - Sanap Aditya: Bhai type 1 secure hai
+08/04/22, 09:45 - Sanap Aditya: Pure internet pe yahi hai
+08/04/22, 09:58 - Avinash: type 1
+08/04/22, 16:10 - Teknath Jha: Huwa kya
+08/04/22, 16:13 - Teknath Jha started a call
+08/04/22, 16:18 - Sanap Aditya: Haa re bohot easy tha
+09/04/22, 17:44 - Sanap Aditya: Tilak hall mai aao
+09/04/22, 17:44 - Sanap Aditya: Art circle ka program hai
+09/04/22, 18:37 - Sanap Aditya: <Media omitted>
+10/04/22, 14:05 - Teknath Jha: This message was deleted
+10/04/22, 19:56 - Sanap Aditya: Bhai important questions dalo re
