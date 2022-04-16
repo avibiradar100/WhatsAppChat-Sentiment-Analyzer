@@ -15,7 +15,7 @@ if uploaded_file is not None:
     # fetch unique users
     user_list = df['user'].unique().tolist()
     user_list.remove('group_notification')
-    user_list.remove('ERROR')
+    # user_list.remove('ERROR')
     user_list.sort()
     user_list.insert(0,"Overall")
 
@@ -99,23 +99,23 @@ if uploaded_file is not None:
         # st.pyplot(fig)
 
         
-        # # WordCloud
-        # st.title("Wordcloud")
-        # df_wc = helper.create_wordcloud(selected_user,df)
-        # fig,ax = plt.subplots()
-        # ax.imshow(df_wc)
-        # st.pyplot(fig)
+        # WordCloud
+        st.title("Wordcloud")
+        df_wc = helper.create_wordcloud(selected_user,df)
+        fig,ax = plt.subplots()
+        ax.imshow(df_wc)
+        st.pyplot(fig)
 
-        # # most common words
-        # most_common_df = helper.most_common_words(selected_user,df)
+        # most common words
+        st.title('Most commmon words')
+        most_common_df = helper.most_common_words(selected_user,df)
+        fig,ax = plt.subplots()
 
-        # fig,ax = plt.subplots()
+        ax.barh(most_common_df[0],most_common_df[1])
+        plt.xticks(rotation='vertical')
 
-        # ax.barh(most_common_df[0],most_common_df[1])
-        # plt.xticks(rotation='vertical')
-
-        # st.title('Most commmon words')
-        # st.pyplot(fig)
+        st.pyplot(fig)
+        st.dataframe(most_common_df);
 
         # # emoji analysis
         # emoji_df = helper.emoji_helper(selected_user,df)
