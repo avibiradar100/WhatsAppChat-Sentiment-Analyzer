@@ -10,7 +10,7 @@ if uploaded_file is not None:
     data = bytes_data.decode("utf-8")
 
     df=preprocessor.preprocess(data)
-    st.dataframe(df)
+    # st.dataframe(df)
 
     # fetch unique users
     user_list = df['user'].unique().tolist()
@@ -39,6 +39,14 @@ if uploaded_file is not None:
         with col4:
             st.header("Links Shared")
             st.title(num_links)
+        
+         # monthly timeline
+        st.title("Monthly Timeline")
+        timeline = helper.monthly_timeline(selected_user,df)
+        fig,ax = plt.subplots()
+        ax.plot(timeline['time'], timeline['message'],color='green')
+        plt.xticks(rotation='vertical')
+        st.pyplot(fig)
 
         # # finding the busiest users in the group(Group level)
         if selected_user == 'Overall':
@@ -56,41 +64,33 @@ if uploaded_file is not None:
                 st.dataframe(new_df)
 
 
-        # # monthly timeline
-        # st.title("Monthly Timeline")
-        # timeline = helper.monthly_timeline(selected_user,df)
-        # fig,ax = plt.subplots()
-        # ax.plot(timeline['time'], timeline['message'],color='green')
-        # plt.xticks(rotation='vertical')
-        # st.pyplot(fig)
+        # daily timeline
+        st.title("Daily Timeline")
+        daily_timeline = helper.daily_timeline(selected_user, df)
+        fig, ax = plt.subplots()
+        ax.plot(daily_timeline['only_date'], daily_timeline['message'], color='black')
+        plt.xticks(rotation='vertical')
+        st.pyplot(fig)
 
-        # # daily timeline
-        # st.title("Daily Timeline")
-        # daily_timeline = helper.daily_timeline(selected_user, df)
-        # fig, ax = plt.subplots()
-        # ax.plot(daily_timeline['only_date'], daily_timeline['message'], color='black')
-        # plt.xticks(rotation='vertical')
-        # st.pyplot(fig)
+        #activity map
+        st.title('Activity Map')
+        col1,col2 = st.columns(2)
 
-        # activity map
-        # st.title('Activity Map')
-        # col1,col2 = st.columns(2)
+        with col1:
+            st.header("Most busy day")
+            busy_day = helper.week_activity_map(selected_user,df)
+            fig,ax = plt.subplots()
+            ax.bar(busy_day.index,busy_day.values,color='purple')
+            plt.xticks(rotation='vertical')
+            st.pyplot(fig)
 
-        # with col1:
-        #     st.header("Most busy day")
-        #     busy_day = helper.week_activity_map(selected_user,df)
-        #     fig,ax = plt.subplots()
-        #     ax.bar(busy_day.index,busy_day.values,color='purple')
-        #     plt.xticks(rotation='vertical')
-        #     st.pyplot(fig)
-
-        # with col2:
-        #     st.header("Most busy month")
-        #     busy_month = helper.month_activity_map(selected_user, df)
-        #     fig, ax = plt.subplots()
-        #     ax.bar(busy_month.index, busy_month.values,color='orange')
-        #     plt.xticks(rotation='vertical')
-        #     st.pyplot(fig)
+        with col2:
+            st.header("Most busy month")
+            busy_month = helper.month_activity_map(selected_user, df)
+            fig, ax = plt.subplots()
+            ax.bar(busy_month.index, busy_month.values,color='orange')
+            plt.xticks(rotation='vertical')
+            st.pyplot(fig)
 
         # st.title("Weekly Activity Map")
         # user_heatmap = helper.activity_heatmap(selected_user,df)
@@ -117,16 +117,16 @@ if uploaded_file is not None:
         st.pyplot(fig)
         st.dataframe(most_common_df);
 
-        # # emoji analysis
-        # emoji_df = helper.emoji_helper(selected_user,df)
-        # st.title("Emoji Analysis")
+        # emoji analysis
+        emoji_df = helper.emoji_helper(selected_user,df)
+        st.title("Emoji Analysis")
 
-        # col1,col2 = st.beta_columns(2)
+        col1,col2 = st.columns(2)
 
-        # with col1:
-        #     st.dataframe(emoji_df)
-        # with col2:
-        #     fig,ax = plt.subplots()
-        #     ax.pie(emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
-        #     st.pyplot(fig)
+        with col1:
+            st.dataframe(emoji_df)
+        with col2:
+            fig,ax = plt.subplots()
+            ax.pie(emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
+            st.pyplot(fig)
 
