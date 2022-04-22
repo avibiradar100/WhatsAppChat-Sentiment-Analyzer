@@ -1,13 +1,14 @@
 import streamlit as st
 import preprocessor,helper
 import matplotlib.pyplot as plt
-import shutil
 
 st.sidebar.title("WhatsApp Chat Sentiment Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
-    shutil.copyfile(uploaded_file.name,'sample.txt')
+    bytes_data = uploaded_file.getvalue()
+    with open("sample.txt", "wb") as binary_file:
+        binary_file.write(bytes_data)
     df=preprocessor.preprocess()
     # st.dataframe(df)
 
