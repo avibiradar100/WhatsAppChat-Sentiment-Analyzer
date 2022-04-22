@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 
-def preprocess(filename):
+def preprocess():
     def date_time(s):
         pattern = '^([0-9]+)(\/)([0-9]+)(\/)([0-9]+), ([0-9]+):([0-9]+)[ ]?(AM|PM|am|pm)? -'
         result = re.match(pattern, s)
@@ -29,7 +29,7 @@ def preprocess(filename):
             message = splitmessage[0]
         return date, time, author, message
     data = []
-    fp=open('C:\\Users\\Teknath\\Desktop\\ML projects\\whatsapp chat analysis\\WhatsApp Chat with Exam time.txt','r',encoding='utf-8');
+    fp=open('sample.txt','r',encoding='utf-8');
     fp.readline()
     messageBuffer = []
     date, time, user = None, None, None
