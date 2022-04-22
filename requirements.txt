@@ -4,4 +4,3 @@ urlextract
 wordcloud
 pandas
 emoji
-python-3.7.0
