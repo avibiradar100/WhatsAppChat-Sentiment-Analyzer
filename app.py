@@ -4,12 +4,10 @@ import matplotlib.pyplot as plt
 import os
 
 st.sidebar.title("WhatsApp Chat Sentiment Analyzer")
-os.chdir(r'E:\Whatsapp_analyzer')
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
     filename = uploaded_file.name;
-
     df=preprocessor.preprocess(filename)
     # st.dataframe(df)
 
