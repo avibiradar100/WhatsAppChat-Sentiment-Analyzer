@@ -29,7 +29,7 @@ def preprocess(filename):
             message = splitmessage[0]
         return date, time, author, message
     data = []
-    fp=open(filename,'r',encoding='utf-8');
+    fp=open('C:\Users\Teknath\Desktop\ML projects\whatsapp chat analysis\WhatsApp Chat with Exam time.txt','r',encoding='utf-8');
     fp.readline()
     messageBuffer = []
     date, time, user = None, None, None
