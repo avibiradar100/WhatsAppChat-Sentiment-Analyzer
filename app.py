@@ -1,10 +1,13 @@
 import streamlit as st
 import preprocessor,helper
 import matplotlib.pyplot as plt
+import time
 
 st.sidebar.title("WhatsApp Chat Sentiment Analyzer")
 
+st.text("Select your Exported Whatsapp Chat file....")
 uploaded_file = st.sidebar.file_uploader("Choose a file")
+st.title("")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
     with open("sample.txt", "wb") as binary_file:
@@ -19,8 +22,8 @@ if uploaded_file is not None:
     user_list.sort()
     user_list.insert(0,"Overall")
 
+    st.text("Select user for analysis....")
     selected_user = st.sidebar.selectbox("Show analysis w.r.t",user_list)
-
     if st.sidebar.button("Show Analysis"):
         # Stats Area
         num_messages,words,num_media_messages,num_links= helper.fetch_stats(selected_user,df)
