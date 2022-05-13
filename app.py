@@ -1,7 +1,6 @@
 import streamlit as st
 import preprocessor,helper
 import matplotlib.pyplot as plt
-import time
 
 st.sidebar.title("WhatsApp Chat Sentiment Analyzer")
 
@@ -127,4 +126,10 @@ if uploaded_file is not None:
             fig,ax = plt.subplots()
             ax.pie(emoji_df[1].head(),labels=emoji_df[0].head(),autopct="%0.2f")
             st.pyplot(fig)
+
+       # Sentiment analysis
+        st.title('Sentiment analysis')
+        st.text("Computing Please Wait....")
+        most_common_df = helper.sentiment(selected_user,df)
+        st.dataframe(most_common_df)
 

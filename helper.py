@@ -4,6 +4,7 @@ from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
 import emoji
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 extract = URLExtract()
 
@@ -131,15 +132,46 @@ def month_activity_map(selected_user,df):
 
     return df['month'].value_counts()
 
-def activity_heatmap(selected_user,df):
+
+def sentiment(selected_user,df):
 
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
 
-    user_heatmap = df.pivot_table(index='day_name', columns='period', values='message', aggfunc='count').fillna(0)
+    temp = df[df['user'] != 'group_notification']
+    temp = temp[temp['message'] != '<Media omitted>\n']
 
-    return user_heatmap
+    overall = []
+    posarr=[]
+    negarr=[]
+    neuarr=[]
 
+    for message in temp['message']:        
+        sid_obj = SentimentIntensityAnalyzer()
+        sentiment_dict = sid_obj.polarity_scores(message)
+
+        negarr.append(sentiment_dict['neg']*100)
+        neuarr.append(sentiment_dict['neu']*100)
+        posarr.append(sentiment_dict['pos']*100)
+    
+        # decide sentiment as positive, negative and neutral
+        if sentiment_dict['compound'] >= 0.05 :
+            overall.append("Positive")
+    
+        elif sentiment_dict['compound'] <= - 0.05 :
+            overall.append("Negative")
+    
+        else :
+            overall.append("Neutral")
+
+    dict = {'Message' : temp['message'],
+        'Positive':posarr,
+        'Negative':negarr,
+        'Neutral':neuarr,
+        'Overall' :overall
+    }
+    most_common_df = pd.DataFrame(dict)
+    return most_common_df
 
 
 
