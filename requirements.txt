@@ -5,4 +5,4 @@ wordcloud
 pandas
 emoji
 vader
-SentimentIntensityAnalyzer
+vaderSentiment
