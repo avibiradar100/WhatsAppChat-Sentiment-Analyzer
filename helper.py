@@ -145,6 +145,8 @@ def sentiment(selected_user,df):
     posarr=[]
     negarr=[]
     neuarr=[]
+    overall=[]
+    res=[]
 
     for message in temp['message']:        
         sid_obj = SentimentIntensityAnalyzer()
@@ -153,22 +155,63 @@ def sentiment(selected_user,df):
         negarr.append(sentiment_dict['neg']*100)
         neuarr.append(sentiment_dict['neu']*100)
         posarr.append(sentiment_dict['pos']*100)
+        overall.append(sentiment_dict['compound']*100)
     
         # decide sentiment as positive, negative and neutral
         if sentiment_dict['compound'] >= 0.05 :
-            overall.append("Positive")
+            res.append("Positive")
     
         elif sentiment_dict['compound'] <= - 0.05 :
-            overall.append("Negative")
+            res.append("Negative")
     
         else :
-            overall.append("Neutral")
+            res.append("Neutral")
 
     dict = {'Message' : temp['message'],
         'Positive':posarr,
         'Negative':negarr,
         'Neutral':neuarr,
-        'Overall' :overall
+        'Overall' :overall,
+        'result' :res
+    }
+    most_common_df = pd.DataFrame(dict)
+    return most_common_df
+
+def conclusion(selected_user,df):
+
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+
+    temp = df[df['user'] != 'group_notification']
+    temp = temp[temp['message'] != '<Media omitted>\n']
+
+    tot=0
+    totMessages=0;
+    res=""
+
+    for message in temp['message']:        
+        sid_obj = SentimentIntensityAnalyzer()
+        sentiment_dict = sid_obj.polarity_scores(message)
+        if sentiment_dict['compound'] !=0 :
+            totMessages=totMessages+1
+            tot=(tot+(sentiment_dict['compound']))
+
+    tot=(tot/totMessages)
+
+    # decide sentiment as positive, negative and neutral
+    if tot >= 0.05 :
+        res="Positive"
+
+    elif tot <= - 0.05 :
+        res= "Negative"
+
+    else :
+        res="Neutral"
+
+    dict = {
+        'total Messages for analysis':[totMessages],
+        'Score':[tot],
+        'conclusion':[res],
     }
     most_common_df = pd.DataFrame(dict)
     return most_common_df

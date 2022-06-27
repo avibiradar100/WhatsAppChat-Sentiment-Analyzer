@@ -133,3 +133,9 @@ if uploaded_file is not None:
         most_common_df = helper.sentiment(selected_user,df)
         st.dataframe(most_common_df)
 
+       # Analysis
+        st.title('Conclusion')
+        st.text("Computing Please Wait....")
+        most_common_df = helper.conclusion(selected_user,df)
+        st.dataframe(most_common_df)
+
