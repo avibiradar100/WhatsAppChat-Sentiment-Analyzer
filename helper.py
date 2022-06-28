@@ -209,9 +209,8 @@ def conclusion(selected_user,df):
         res="Neutral"
 
     dict = {
-        'total Messages for analysis':[totMessages],
-        'Score':[tot],
         'conclusion':[res],
+        'Overall Score':[tot*100]
     }
     most_common_df = pd.DataFrame(dict)
     return most_common_df

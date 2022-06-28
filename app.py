@@ -17,7 +17,7 @@ if uploaded_file is not None:
     # fetch unique users
     user_list = df['user'].unique().tolist()
     user_list.remove('group_notification')
-    # user_list.remove('ERROR')
+    user_list.remove('ERROR')
     user_list.sort()
     user_list.insert(0,"Overall")
 
@@ -129,13 +129,11 @@ if uploaded_file is not None:
 
        # Sentiment analysis
         st.title('Sentiment analysis')
-        st.text("Computing Please Wait....")
         most_common_df = helper.sentiment(selected_user,df)
         st.dataframe(most_common_df)
 
        # Analysis
         st.title('Conclusion')
-        st.text("Computing Please Wait....")
         most_common_df = helper.conclusion(selected_user,df)
         st.dataframe(most_common_df)
 
